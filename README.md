@@ -1,0 +1,2 @@
+# STM32toZigbeeOTA
+使用stm32f103给zigbee终端设备进行ota，对协调器进行sbl
